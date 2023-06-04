@@ -1,7 +1,6 @@
 ### My Name Is Evan and Currently I am...
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+Next+JS;Planning+Trips+For+This+Summer;Learning+Spanish;Living+In+Vancouver,+BC;Working+With+Lighthouse+Labs;Reading+Dopmaine+Nation;Playing+With+AI+-like+everyone+else;](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Working+With+NEXTjs;Planning+Trips+For+This+Summer;Learning+Spanish;Living+In+Vancouver,+BC;Working+With+Lighthouse+Labs;Reading+Dopmaine+Nation;)](https://git.io/typing-svg)
 
 
 <!--
