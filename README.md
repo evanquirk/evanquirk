@@ -1,6 +1,6 @@
 ### My Name Is Evan and Currently I am...
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Recovering+From+Some+Big+Hikes;Dipping+A+Toe+Into+Threads;Working+With+Next.js;Covered+In+Mosquito+Bites;Learning+Spanish;Living+In+Vancouver,+BC;Working+With+Lighthouse+Labs;Reading+Dopmaine+Nation;Open+To+Connect+-+Say+Hi!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Playing+With+Logic's+New+Features;Writing;Dipping+A+Toe+Into+Threads;Working+With+Next.js;Covered+In+Mosquito+Bites;Learning+Spanish;Living+In+Vancouver,+BC;Working+With+Lighthouse+Labs;Reading+Gabor+Maté;Playing+Chess;Open+To+Connect+-+Say+Hi!)](https://git.io/typing-svg)
 
 
 <!--
