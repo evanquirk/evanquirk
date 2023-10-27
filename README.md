@@ -1,6 +1,6 @@
 ### My Name Is Evan and Currently I am...
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wishing+Everyone+A+Happy+Halloween;Living+In+Vancouver,+BC;Working+With+Lighthouse+Labs;Learning+GIS;Playing+and+Writing+New+Music;Taking+Applied+IoT;Loving+Obsidian;Perfecting+My+Kombucha+Recipe;Taking+Forestry;Open+To+Connect+-+Say+Hi!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wishing+You+A+Happy+Halloween;Living+In+Vancouver,+BC;Working+With+Lighthouse+Labs;Learning+GIS;Playing+and+Writing+New+Music;Taking+Applied+IoT;Loving+Obsidian;Perfecting+My+Kombucha+Recipe;Taking+Forestry;Open+To+Connect+-+Say+Hi!)](https://git.io/typing-svg)
 
 
 <!--
