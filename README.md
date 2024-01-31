@@ -1,9 +1,9 @@
-### My Name Is Evan and Currently I am...
+<!--### My Name Is Evan and Currently I am...
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wishing+You+A+Happy+2024!;Taking+A+Break+From+Social+Media;Reading+"This+Is+Wildfire";Living+In+Vancouver,+BC;Working+With+Lighthouse+Labs;Playing+and+Writing+New+Music;Loving+Obsidian;Open+To+Connect+-+Say+Hi!)](https://git.io/typing-svg)
 
 
-<!--
+
 **evanquirk/evanquirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
